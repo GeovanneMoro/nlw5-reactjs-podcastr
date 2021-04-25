@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="./public/icon.svg" width="120px">
+  <img alt="Podcastr" src="public/logo.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
