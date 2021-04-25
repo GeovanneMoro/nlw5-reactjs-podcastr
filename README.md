@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src=".github/icon.svg" width="120px">
+  <img alt="Podcastr" src="public/icon.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Forked by Geovanne Moro of Guilherme Capitão repository</p>
+<p align="center">Readme by Guilherme Capitão repository</p>
