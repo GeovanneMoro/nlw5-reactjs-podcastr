@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="Podcastr" src=".github/icon.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
@@ -62,7 +62,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts!
+[Podcastr](https://nlw5-reactjs-podcastr-7fk768vtf-geovannemoro.vercel.app/) to bring you even closer to the best technology podcasts!
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
