@@ -25,6 +25,13 @@
   <img alt="Podcastr" src="public/logo.svg" width="120px">
 </p>
 
+## 💻 Project
+
+[Podcastr](https://nlw5-reactjs-podcastr-7fk768vtf-geovannemoro.vercel.app/) to bring you even closer to the best technology podcasts!
+
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
+
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
@@ -40,7 +47,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/eduardodarocha/projeto-reactjs-NLW5.git
+$ git clone https://github.com/GeovanneMoro/nlw5-reactjs-podcastr.git
 ```
 
 Follow the steps below
@@ -59,12 +66,6 @@ $ yarn server
 # Start the project
 $ yarn dev
 ```
-
-## 💻 Project
-
-[Podcastr](https://nlw5-reactjs-podcastr-7fk768vtf-geovannemoro.vercel.app/) to bring you even closer to the best technology podcasts!
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
 ## 🔖 Layout
 
