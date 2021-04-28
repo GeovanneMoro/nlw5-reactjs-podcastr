@@ -74,7 +74,3 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
----
-
-<p align="center">Readme by Guilherme Capitão repository</p>
